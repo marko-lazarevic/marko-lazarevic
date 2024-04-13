@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marko-lazarevic
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react.js
+- 👀 I’m interested in all types of programming
+- 🌱 I’m currently learning soo much things 
 - 📫 How to reach me markolazarevi37@gmail.com
 
 <!---
